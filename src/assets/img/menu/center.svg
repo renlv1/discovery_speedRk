@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="46" height="40.492" viewBox="0 0 46 40.492">
+  <g id="公投中心" transform="translate(1)">
+    <path id="路径_87" data-name="路径 87" d="M287.174,284.675V249.611a2.635,2.635,0,0,0-2.8-2.428h-30.4a3.01,3.01,0,0,0-1.98.712,2.262,2.262,0,0,0-.818,1.716v34.634a2.263,2.263,0,0,0,.818,1.718,3.02,3.02,0,0,0,1.98.712h30.9A2.17,2.17,0,0,0,287.174,284.675Z" transform="translate(-247.174 -247.183)" fill="#ff8099"/>
+    <path id="路径_88" data-name="路径 88" d="M0,0H6.944" transform="translate(15 11.747)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="2"/>
+    <line id="直线_24" data-name="直线 24" x2="12.944" transform="translate(15 19.746)" fill="none" stroke="#fff" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>
+    <line id="直线_25" data-name="直线 25" x2="12.944" transform="translate(15 27.744)" fill="none" stroke="#fff" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>
+    <path id="路径_90" data-name="路径 90" d="M0,0H44" transform="translate(0 39.492)" fill="none" stroke="#f66a86" stroke-linecap="round" stroke-width="2"/>
+  </g>
+</svg>

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="40" viewBox="0 0 32 40">
+  <g id="充值订单-未选中" transform="translate(-174 20)">
+    <path id="矩形_58" data-name="矩形 58" d="M177.385-16h25.23A2.218,2.218,0,0,1,205-14V17a2.218,2.218,0,0,1-2.385,2h-25.23A2.218,2.218,0,0,1,175,17V-14A2.218,2.218,0,0,1,177.385-16Z" fill="none" stroke="#000" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>
+    <line id="直线_60" data-name="直线 60" y1="6" transform="translate(196 -19)" fill="none" stroke="#000" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>
+    <line id="直线_60-2" data-name="直线 60" y1="6" transform="translate(184 -19)" fill="none" stroke="#000" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>
+    <path id="路径_115" data-name="路径 115" d="M191.007,1.2h-2.013a2.082,2.082,0,0,1-2.08-2.08,2.08,2.08,0,0,1,2.08-2.08h4.027a.943.943,0,0,0,.94-.94.94.94,0,0,0-.94-.94H190.94V-6.92a.94.94,0,0,0-.94-.94h0a.939.939,0,0,0-.94.938V-4.84h-.067a3.964,3.964,0,0,0-3.96,3.96,3.966,3.966,0,0,0,3.96,3.96h2.013a2.08,2.08,0,1,1,0,4.16h-4.027a.939.939,0,0,0-.94.938v0a.94.94,0,0,0,.94.94h2.081V11.2a.94.94,0,0,0,.94.94h0a.943.943,0,0,0,.94-.94V9.123h.067a3.962,3.962,0,0,0,0-7.923Z"/>
+  </g>
+</svg>

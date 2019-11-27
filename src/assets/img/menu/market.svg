@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="46.776" height="42.128" viewBox="0 0 46.776 42.128">
+  <g id="行情" transform="translate(1 1)">
+    <path id="路径_81" data-name="路径 81" d="M451.591,470.463l10.176-10.176a.4.4,0,0,1,.566,0l5.612,5.612a.4.4,0,0,0,.564,0l7.726-7.726a.4.4,0,0,1,.566,0l6.924,6.924a.4.4,0,0,0,.566,0l10.222-10.222" transform="translate(-451.591 -454.875)" fill="none" stroke="#000" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>
+    <path id="路径_82" data-name="路径 82" d="M471.128,454.875h3.6a.4.4,0,0,1,.4.4v3.6" transform="translate(-432.054 -454.875)" fill="none" stroke="#000" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>
+    <line id="直线_13" data-name="直线 13" y1="6.77" x2="7.095" transform="translate(6.421 28.861)" fill="none" stroke="#000" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>
+    <path id="路径_118" data-name="路径 118" d="M.092-.372l9.927,1.5" transform="translate(18.668 27.333)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="2"/>
+    <line id="直线_15" data-name="直线 15" y1="4.029" x2="5.642" transform="translate(34.318 23.304)" fill="none" stroke="#000" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>
+    <circle id="椭圆_6" data-name="椭圆 6" cx="3" cy="3" r="3" transform="translate(1.184 34.628)" fill="#67d4cd" stroke="#67d4cd" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1"/>
+    <circle id="椭圆_7" data-name="椭圆 7" cx="3" cy="3" r="3" transform="translate(12.668 23.773)" fill="#67d4cd" stroke="#67d4cd" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1"/>
+    <circle id="椭圆_8" data-name="椭圆 8" cx="3" cy="3" r="3" transform="translate(28.687 25.773)" fill="#67d4cd" stroke="#67d4cd" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1"/>
+    <circle id="椭圆_9" data-name="椭圆 9" cx="3" cy="3" r="3" transform="translate(39.276 18.402)" fill="#67d4cd" stroke="#67d4cd" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1"/>
+  </g>
+</svg>

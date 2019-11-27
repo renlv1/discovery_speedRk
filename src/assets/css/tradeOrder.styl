@@ -1,0 +1,185 @@
+.content-b{
+  padding 0 .4rem
+  margin-top 1.3rem
+}
+.main-b{
+  padding 0 .4rem
+}
+.empty-data{
+  font-family "微软雅黑 Light"
+  width: 100%;
+  overflow: hidden;
+  position: fixed;
+  padding 0 .4rem
+  top: 60%;
+  left: 50%;
+  bottom: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  transform translate(-50%, -50%)
+  font-size: .28rem;
+  color: #999;
+  padding-bottom: .5rem;
+  .noData{
+    width: 1.8rem;
+    height: 1.75rem;
+    //margin-left: .5rem;
+    margin-bottom: .2rem;
+    img{
+      display: block;
+      width: 100%;
+      height: 100%;
+    }
+  }
+}
+.ul-list{
+  .li-item{
+    margin-bottom .2rem
+    padding 0 .3rem .3rem
+    background #f7f7f7
+    border-radius 4px
+    width 100%
+    .buy-box{
+      padding-top  .3rem
+      margin-bottom .2rem
+      display flex
+      justify-content space-between
+      align-items center
+      .buy-c{
+        display flex
+        align-items center
+        .buy-t{
+          width .72rem
+          height .4rem
+          display flex
+          justify-content center
+          align-items center
+          border-radius 4px
+          background #4cd282
+          margin-right .2rem
+          color #fff
+          font-size .28rem
+          &.sale{
+            background #ff717f
+          }
+        }
+        .order-no{
+          color #000
+          font-size .28rem
+        }
+      }
+      .status{
+        color #b79961
+        font-size .28rem
+      }
+    }
+    .money{
+      color #000
+      font-size .28rem
+    }
+    .price-box{
+      display flex
+      justify-content space-between
+      margin .2rem 0 .3rem
+      color #999
+      font-size .28rem
+      .price{
+        color #999
+        font-size .28rem
+        &.tradeAmount{
+          color #000
+        }
+      }
+    .tradeAmount{
+      color #000
+     }
+    }
+    .dotted{
+      border 1px dashed #999
+    }
+    .sum-box{
+      display flex
+      justify-content space-between
+      margin-top .3rem
+      .sum{
+        color #b79961
+        font-size .24rem
+        span{
+          color #000
+          font-size .24rem
+        }
+      }
+    }
+  }
+}
+.mu-input-line{
+  margin: 0;
+  height: 1px;
+  border: none;
+  background-color: rgba(0,0,0,.12);
+  left: 0;
+  right: 0;
+  bottom: -1px;
+  position: absolute;
+}
+.mu-input-focus-line{
+  margin: 0;
+  height: 2px;
+  border: none;
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: -1px;
+  -webkit-transform: scaleX(0);
+  transform: scaleX(0);
+  transition: transform .45s cubic-bezier(.23,1,.32,1),-webkit-transform .45s cubic-bezier(.23,1,.32,1);
+  &.focusActive{
+    border-bottom 1px solid #000
+    transform scaleX(1)
+    &::-webkit-input-placeholder {
+      color: #000;
+    }
+    &:-moz-placeholder {
+      color: #000;
+    }
+    &::-moz-placeholder {
+      color: #000;
+    }
+    &:-ms-input-placeholder {
+      color: #000;
+    }
+  }
+}
+.iosx-app
+  .v-fixed-top
+    padding-top: 44px
+.ios-app
+  .v-fixed-top
+    padding-top: 20px
+
+.v-fixed-top
+  position: fixed;
+  width: 100%;
+  top: 0
+  left: 0;
+  z-index: 99;
+  height: 40px;
+  line-height: 40px;
+  text-align: center;
+  font-size: 0.34rem;
+  color #000
+  background: #fff;
+  box-sizing content-box
+  .goback
+    box-sizing border-box
+    padding: .3rem
+    position: absolute;
+    left: 0;
+    bottom: 0
+    height: .88rem
+    .goback-icon
+      height: .28rem;
+      width: .36rem;
+      background: url("../img/order/back.svg") no-repeat center / cover

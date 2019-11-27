@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="174" height="192" viewBox="0 0 174 192">
+  <g id="申请共享者-失败" transform="translate(-427 44)">
+    <path id="路径_160" data-name="路径 160" d="M509,136H441a12.035,12.035,0,0,1-12-12V-20a12.035,12.035,0,0,1,12-12H577a12.035,12.035,0,0,1,12,12V56" fill="none" stroke="#000" stroke-linecap="round" stroke-miterlimit="10" stroke-width="4"/>
+    <line id="直线_96" data-name="直线 96" y2="20" transform="translate(479 -42)" fill="none" stroke="#000" stroke-linecap="round" stroke-miterlimit="10" stroke-width="4"/>
+    <line id="直线_97" data-name="直线 97" y2="20" transform="translate(539 -42)" fill="none" stroke="#000" stroke-linecap="round" stroke-miterlimit="10" stroke-width="4"/>
+    <line id="直线_100" data-name="直线 100" x2="160" transform="translate(429 18)" fill="none" stroke="#000" stroke-linecap="round" stroke-miterlimit="10" stroke-width="4" stroke-dasharray="8 10"/>
+    <line id="直线_101" data-name="直线 101" x2="60" transform="translate(459 54)" fill="none" stroke="#000" stroke-linecap="round" stroke-miterlimit="10" stroke-width="4" opacity="0.8"/>
+    <line id="直线_102" data-name="直线 102" x2="40" transform="translate(459 77)" fill="none" stroke="#000" stroke-linecap="round" stroke-miterlimit="10" stroke-width="4" opacity="0.8"/>
+    <line id="直线_103" data-name="直线 103" x2="30" transform="translate(459 100)" fill="none" stroke="#000" stroke-linecap="round" stroke-miterlimit="10" stroke-width="4" opacity="0.8"/>
+    <circle id="椭圆_23" data-name="椭圆 23" cx="45" cy="45" r="45" transform="translate(509 56)" fill="none" stroke="#ff717d" stroke-linecap="round" stroke-miterlimit="10" stroke-width="4"/>
+    <line id="直线_98" data-name="直线 98" y2="44" transform="translate(569.556 85.444) rotate(45)" fill="none" stroke="#ff717d" stroke-linecap="round" stroke-miterlimit="10" stroke-width="4"/>
+    <line id="直线_99" data-name="直线 99" x1="44" transform="translate(538.444 85.444) rotate(45)" fill="none" stroke="#ff717d" stroke-linecap="round" stroke-miterlimit="10" stroke-width="4"/>
+  </g>
+</svg>
